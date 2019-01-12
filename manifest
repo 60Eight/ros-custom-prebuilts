@@ -1,3 +1,4 @@
+AuroraStore
 com.google.android.maps
 DroidGuard
 FakeStore
@@ -5,4 +6,5 @@ GmsCore
 GsfProxy
 MozillaNlpBackend
 NominatimNlpBackend
+Recorder
 YalpStore
