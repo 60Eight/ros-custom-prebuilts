@@ -23,3 +23,4 @@ Add the following to end of your `rattlesnakeos-stack` config file.
 
 ## References:
 - https://github.com/dan-v/rattlesnakeos-stack#prebuilts
+- https://github.com/Hammergrat7/microg
