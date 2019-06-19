@@ -22,14 +22,14 @@ Add the following to end of your `rattlesnakeos-stack` config file.
 ```
 
 ## References:
-- AuroraStore from [F-Droid](https://f-droid.org/repo/com.aurora.store_3.apk)
+- AuroraStore from [f-droid](https://f-droid.org/en/packages/com.aurora.store/)
 - DroidGuard from 
 - FakeStore from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/FakeStore)
 - GmsCore from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/GmsCore)
 - GsfProxy from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/GsfProxy)
 - MozillaNlpBackend from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/MozillaNlpBackend)
 - NominatimNlpBackend from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/NominatimNlpBackend)
-- Recorder from
+- Recorder from [apkmirror](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=663426)
 - YalpStore from
 - com.google.android.maps from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/com.google.android.maps)
 
