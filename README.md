@@ -30,7 +30,6 @@ Add the following to end of your `rattlesnakeos-stack` config file.
 - MozillaNlpBackend from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/MozillaNlpBackend)
 - NominatimNlpBackend from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/NominatimNlpBackend)
 - Recorder from [apkmirror](https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=663426)
-- YalpStore from
 - com.google.android.maps from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/com.google.android.maps)
 
 - https://github.com/dan-v/rattlesnakeos-stack#prebuilts
