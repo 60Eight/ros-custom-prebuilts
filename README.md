@@ -23,7 +23,7 @@ Add the following to end of your `rattlesnakeos-stack` config file.
 
 ## References:
 ### APKs:
-1. AuroraStore from [f-droid](https://f-droid.org/en/packages/com.aurora.store/)
+1. AuroraServices from [f-droid](https://f-droid.org/en/packages/com.aurora.services/)
 2. DroidGuard from 
 3. FakeStore from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/FakeStore)
 4. GmsCore from [lineageos4microg](https://github.com/lineageos4microg/android_prebuilts_prebuiltapks/tree/master/GmsCore)
