@@ -8,6 +8,7 @@ Add the following to end of your `rattlesnakeos-stack` config file.
 [[custom-prebuilts]]
   repo = "https://github.com/60Eight/ros-custom-prebuilts"
   modules = [
+      "AuroraServices",
       "com.google.android.maps.jar",
       "FakeStore",
       "GmsCore",
